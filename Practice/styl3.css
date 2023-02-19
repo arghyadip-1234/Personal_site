@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Dancing+Script:wght@400;500&family=Josefin+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Dancing+Script:wght@400;500&family=Josefin+Sans:wght@600&family=Julee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Dancing+Script:wght@400;500&family=Josefin+Sans:wght@600&family=Julee&family=Montserrat:wght@500&family=Open+Sans&family=Titillium+Web:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Dancing+Script:wght@400;500&family=Josefin+Sans:wght@600&family=Julee&family=Merriweather&family=Montserrat:wght@400;500&family=Open+Sans&family=Titillium+Web:ital@1&display=swap');
+body {
+  background-color: #EAF6F6;
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+
+}
+.top-container {
+  background-color: #DEFCF9;
+}
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  padding-bottom: 10px;
+  /* font-weight: normal; */
+}
+h3 {
+  text-align: center;
+  color: #EB455F;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+.mountain {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+  bottom: 50px;
+
+}
+h1 {
+  /* font-family: 'Caramel', cursive; */
+  font-family: 'Caramel', cursive;
+  /* font-family: 'Dancing Script', cursive; */
+  /* font-family: 'Josefin Sans', sans-serif; */
+  font-size: 70px;
+  text-align: center;
+  /* margin: 0 auto 0 auto; */
+  top: 20px;
+  text-shadow: 2px 2px pink;
+  position: relative;
+  top: 40px;
+  /* line-height: 2; */
+}
+.con {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+.cloud1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 30px;
+  left: 150px;
+
+}
+/* .Myimg {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  position: relative;
+  left: 200px;
+} */
+.cloud2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  right: 200px;
+  top: 30px;
+}
+.middle-container {
+  margin-top: 100px;
+}
+
+hr {
+  border: 6px dotted #85F4FF;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+.contact-me {
+  margin: 100px 0 100px 0;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.myimg {
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.skillimg {
+  width: 20%;
+  height: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+  margin-right: 30px;
+}
+.secondskill {
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  margin-left: 30px;
+}
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  text-align: center;
+}
+.any {
+  margin: 40px auto 60px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.copyright {
+  color: #EAF6F6;
+  padding: 20px 0;
+}
